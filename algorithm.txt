@@ -1,0 +1,6 @@
+Any number if it is divisible by itself or 1 is known as prime numbers. 
+And if we break down any number to its prime factors then this process is called prime factorization.
+We will be using while loop to find out the largest prime factors.
+
+First loop states that largest prime factor will always be smaller than square root of that number.
+After this loop is executed, we increase n by 1. Our second while loop says that while our prime number is evenly divisible by our potential factor, we replace our prime number, with that result, and we repeat the process with that number.
